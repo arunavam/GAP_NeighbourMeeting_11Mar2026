@@ -5,4 +5,4 @@
 
 ### Event schedule (incomplete, being updated): 
 
-![Schedule](SINP-neighbourhood-meeting_Event Schedule-ONLY.jpg) 
+![Schedule](SINP-neighbourhood-meeting_event-schedule.jpg)
